@@ -1,0 +1,7 @@
+Hello git!
+Hello git!
+It's a test file for git learning.
+It's a test file for git learning.
+It's a test file for git learning.
+Hello git!
+Hello git!
