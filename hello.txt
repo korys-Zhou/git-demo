@@ -7,3 +7,5 @@ Hello git!
 Hello git!
 
 It's the second time visit this file.
+
+Third change.
