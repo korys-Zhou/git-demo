@@ -13,3 +13,5 @@ Third change.
 It's in hot-fix branch.
 No, it's in master branch.
 This is truly changed in hot-fix branch.
+
+Online change.
