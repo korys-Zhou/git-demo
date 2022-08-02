@@ -11,3 +11,4 @@ It's the second time visit this file.
 Third change.
 
 It's in hot-fix branch.
+No, it's in master branch.
