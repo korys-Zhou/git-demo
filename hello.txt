@@ -5,3 +5,5 @@ It's a test file for git learning.
 It's a test file for git learning.
 Hello git!
 Hello git!
+
+It's the second time visit this file.
